@@ -1,0 +1,16 @@
+This is the Prophecy Foretold Mod, which is going to mostly revolve around Greek Mythology, and some other things.
+
+Also, here's something special that will be featured in this mod : A whole new class! But... the class can't be accessed or used regularly. To access the new class, well... you have to go to the world generator. As you know, there's two (soon to be three with the 1.4 update) choices of difficulty, "Normal" and "Expert". Now, there's another choice: Prophecy Mode.  You enter the world, a hellbent realm of chaos, myths and wonders... and you are the hellspawn.
+
+New Difficuty - Prophecy Mode
+New Difficulty/Class Hybrid - Hellspawn
+
+In Prophecy Mode, you can only use the Hellspawn class, and nothing else.
+    - The use of Weapons and Accessories are restricted/Unavailable 
+    - In place of Weapons, there are Arch-Runes (Spell-like Objects)
+    - Each spell functions as a different Utility
+    - Accessories are replaced with Soul fragments (Reminants of Slayed Bosses) 
+    - The Player has a certain number of slots used to wear/equip Soul Fragments
+    - More to be added~
+
+That's all we have for you now... stay tuned for more updates and spoilers ahead for this mod.

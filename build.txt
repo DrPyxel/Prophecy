@@ -1,0 +1,3 @@
+author = Prophecy Mod Team
+version = 0.1
+displayName = Prophecy Mod
